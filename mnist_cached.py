@@ -242,7 +242,7 @@ def setup_data_loaders(
             root=root, mode=mode, download=download, sup_num=sup_num, use_cuda=use_cuda
         )
         loaders[mode] = DataLoader(
-            cached_data[mode], batch_size=batch_size, shuffle=True, **kwargs
+            cached_data[mode], batch_size=batch_size, shuffle=False, **kwargs
         )
 
     return loaders
