@@ -213,7 +213,7 @@ class MNISTCached(MNIST):
 
 
 def setup_data_loaders(
-    dataset, use_cuda, batch_size, sup_num=None, root=None, download=True, **kwargs
+    dataset, use_cuda, batch_size, sup_num=None, root=None, download=True, shuffle=True, **kwargs
 ):
     """
         helper function for setting up pytorch data loaders for a semi-supervised dataset
@@ -242,7 +242,7 @@ def setup_data_loaders(
             root=root, mode=mode, download=download, sup_num=sup_num, use_cuda=use_cuda
         )
         loaders[mode] = DataLoader(
-            cached_data[mode], batch_size=batch_size, shuffle=False, **kwargs
+            cached_data[mode], batch_size=batch_size, shuffle=shuffle, **kwargs
         )
 
     return loaders
