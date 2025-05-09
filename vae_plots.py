@@ -106,6 +106,20 @@ def plot_tsne(z_loc, classes, name):
     import numpy as np
     from sklearn.manifold import TSNE
 
+    colors = [
+        '#1f77b4',  # blue
+        '#ff7f0e',  # orange
+        '#2ca02c',  # green
+        '#d62728',  # red
+        '#9467bd',  # purple
+        '#8c564b',  # brown
+        '#e377c2',  # pink
+        '#7f7f7f',  # gray
+        '#bcbd22',  # yellow-green
+        '#17becf'   # cyan
+    ]
+
+
     model_tsne = TSNE(n_components=2, random_state=0)
     z_states = z_loc.detach().cpu().numpy()
     z_embed = model_tsne.fit_transform(z_states)
@@ -115,7 +129,7 @@ def plot_tsne(z_loc, classes, name):
         ind_vec = np.zeros_like(classes)
         ind_vec[:, ic] = 1
         ind_class = classes[:, ic] == 1
-        color = plt.cm.Set1(ic)
+        color = colors[ic]
         plt.scatter(z_embed[ind_class, 0], z_embed[ind_class, 1], s=10, color=color)
         plt.title("Latent Variable T-SNE per Class")
         fig.savefig("./vae_results/" + str(name) + "_embedding_" + str(ic) + ".png")
