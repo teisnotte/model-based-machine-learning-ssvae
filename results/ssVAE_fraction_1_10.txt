@@ -1,0 +1,1021 @@
+
+Training with 1.0% labeled data
+Epoch 0
+Loss: 56143.8759, Accuracy classifier: 0.0536, Accuracy recon: 0.8718
+train_loss: 56143.87586325621, train_recon: 0.8717772019215119, train_accuracy: 0.05364102606589977
+Loss: 56002.2560, Accuracy classifier: 0.0548, Accuracy recon: 0.8722
+test_loss: 56002.256030273435, test_recon: 0.8721619889140129, test_accuracy: 0.05480000050738454
+Epoch 5
+Loss: 42071.3016, Accuracy classifier: 0.2578, Accuracy recon: 0.9185
+train_loss: 42071.30157752404, train_recon: 0.9185338072287731, train_accuracy: 0.2578080592247156
+Loss: 41725.2878, Accuracy classifier: 0.2796, Accuracy recon: 0.9202
+test_loss: 41725.287768554685, test_recon: 0.920187757909298, test_accuracy: 0.27960000149905684
+Epoch 10
+Loss: 38655.5243, Accuracy classifier: 0.3268, Accuracy recon: 0.9288
+train_loss: 38655.52426757813, train_recon: 0.9288384834925334, train_accuracy: 0.32682784077448723
+Loss: 38346.3142, Accuracy classifier: 0.3378, Accuracy recon: 0.9302
+test_loss: 38346.31416015625, test_recon: 0.9302363514900207, test_accuracy: 0.33780000135302546
+Epoch 15
+Loss: 36633.9517, Accuracy classifier: 0.5348, Accuracy recon: 0.9341
+train_loss: 36633.95167079828, train_recon: 0.9340935676525801, train_accuracy: 0.5347809557731334
+Loss: 36333.2312, Accuracy classifier: 0.5513, Accuracy recon: 0.9355
+test_loss: 36333.231225585936, test_recon: 0.93545560836792, test_accuracy: 0.5512999966740608
+Epoch 20
+Loss: 35756.8738, Accuracy classifier: 0.5465, Accuracy recon: 0.9373
+train_loss: 35756.873814978964, train_recon: 0.93731431105198, train_accuracy: 0.5464996376098731
+Loss: 35433.0835, Accuracy classifier: 0.5691, Accuracy recon: 0.9387
+test_loss: 35433.08354492187, test_recon: 0.9386547222733498, test_accuracy: 0.5691000014543534
+Epoch 25
+Loss: 34674.8262, Accuracy classifier: 0.5549, Accuracy recon: 0.9397
+train_loss: 34674.826235101165, train_recon: 0.9396552590223459, train_accuracy: 0.5549304065031883
+Loss: 34304.6307, Accuracy classifier: 0.5754, Accuracy recon: 0.9410
+test_loss: 34304.6306640625, test_recon: 0.9410391539335251, test_accuracy: 0.5754000052809716
+Epoch 30
+Loss: 34046.5631, Accuracy classifier: 0.5902, Accuracy recon: 0.9417
+train_loss: 34046.56312850561, train_recon: 0.9416564308680021, train_accuracy: 0.5901714306611281
+Loss: 33830.6510, Accuracy classifier: 0.6090, Accuracy recon: 0.9430
+test_loss: 33830.65102539062, test_recon: 0.942976912856102, test_accuracy: 0.6090000018477439
+Epoch 35
+Loss: 33642.5662, Accuracy classifier: 0.5981, Accuracy recon: 0.9433
+train_loss: 33642.56616711739, train_recon: 0.9432940507546449, train_accuracy: 0.5980688648346143
+Loss: 33477.4573, Accuracy classifier: 0.6183, Accuracy recon: 0.9445
+test_loss: 33477.457275390625, test_recon: 0.9445390313863754, test_accuracy: 0.618299999833107
+Epoch 40
+Loss: 33067.2209, Accuracy classifier: 0.6744, Accuracy recon: 0.9439
+train_loss: 33067.22087934445, train_recon: 0.9439367113969265, train_accuracy: 0.6743501858833508
+Loss: 32847.4754, Accuracy classifier: 0.6912, Accuracy recon: 0.9452
+test_loss: 32847.475415039065, test_recon: 0.9451517820358276, test_accuracy: 0.6911999985575676
+Epoch 45
+Loss: 32885.4269, Accuracy classifier: 0.6834, Accuracy recon: 0.9453
+train_loss: 32885.4269136869, train_recon: 0.9452622866019225, train_accuracy: 0.6834373630010164
+Loss: 32646.0349, Accuracy classifier: 0.7053, Accuracy recon: 0.9464
+test_loss: 32646.034887695314, test_recon: 0.9464415818452835, test_accuracy: 0.7052999913692475
+Epoch 50
+Loss: 32559.2521, Accuracy classifier: 0.6951, Accuracy recon: 0.9454
+train_loss: 32559.252135291466, train_recon: 0.9453758481221322, train_accuracy: 0.6950681319603553
+Loss: 32316.2823, Accuracy classifier: 0.7166, Accuracy recon: 0.9464
+test_loss: 32316.28232421875, test_recon: 0.9464183673262596, test_accuracy: 0.7165999963879586
+Epoch 55
+Loss: 32422.1770, Accuracy classifier: 0.7211, Accuracy recon: 0.9468
+train_loss: 32422.177001640124, train_recon: 0.9467754098085257, train_accuracy: 0.7211194151487106
+Loss: 32208.0591, Accuracy classifier: 0.7479, Accuracy recon: 0.9478
+test_loss: 32208.05908203125, test_recon: 0.9478284418582916, test_accuracy: 0.7478999957442284
+Epoch 60
+Loss: 32256.3406, Accuracy classifier: 0.6974, Accuracy recon: 0.9463
+train_loss: 32256.340634390024, train_recon: 0.9463309819881732, train_accuracy: 0.6974476184600439
+Loss: 32075.1512, Accuracy classifier: 0.7247, Accuracy recon: 0.9474
+test_loss: 32075.15119628906, test_recon: 0.9474216848611832, test_accuracy: 0.7247000008821487
+Epoch 65
+Loss: 31959.8986, Accuracy classifier: 0.7218, Accuracy recon: 0.9479
+train_loss: 31959.89863656851, train_recon: 0.9479026366502811, train_accuracy: 0.7218168524595407
+Loss: 31752.9977, Accuracy classifier: 0.7476, Accuracy recon: 0.9489
+test_loss: 31752.997680664062, test_recon: 0.9489094391465187, test_accuracy: 0.7476000040769577
+Epoch 70
+Loss: 31903.4528, Accuracy classifier: 0.7267, Accuracy recon: 0.9473
+train_loss: 31903.45282013722, train_recon: 0.9473377240009797, train_accuracy: 0.7267194151878357
+Loss: 31708.5607, Accuracy classifier: 0.7473, Accuracy recon: 0.9484
+test_loss: 31708.560693359374, test_recon: 0.9483998745679856, test_accuracy: 0.7472999960184097
+Epoch 75
+Loss: 31677.3679, Accuracy classifier: 0.6782, Accuracy recon: 0.9490
+train_loss: 31677.367948717947, train_recon: 0.9489944687256446, train_accuracy: 0.6782271061188135
+Loss: 31490.5785, Accuracy classifier: 0.6984, Accuracy recon: 0.9499
+test_loss: 31490.578466796876, test_recon: 0.9499132677912712, test_accuracy: 0.6983999982476234
+Epoch 80
+Loss: 31515.5514, Accuracy classifier: 0.7118, Accuracy recon: 0.9492
+train_loss: 31515.551354980467, train_recon: 0.9492363893068754, train_accuracy: 0.7117860821577219
+Loss: 31306.2748, Accuracy classifier: 0.7275, Accuracy recon: 0.9503
+test_loss: 31306.274755859376, test_recon: 0.950279974937439, test_accuracy: 0.727499994635582
+Epoch 85
+Loss: 31500.3591, Accuracy classifier: 0.7289, Accuracy recon: 0.9481
+train_loss: 31500.359110827325, train_recon: 0.9481325140366188, train_accuracy: 0.7289142865401048
+Loss: 31371.1140, Accuracy classifier: 0.7500, Accuracy recon: 0.9490
+test_loss: 31371.113989257814, test_recon: 0.9490420922636986, test_accuracy: 0.7500000029802323
+Epoch 90
+Loss: 31326.4833, Accuracy classifier: 0.7262, Accuracy recon: 0.9492
+train_loss: 31326.48326541216, train_recon: 0.9492173307981246, train_accuracy: 0.7262065936357547
+Loss: 31195.9991, Accuracy classifier: 0.7513, Accuracy recon: 0.9500
+test_loss: 31195.999145507812, test_recon: 0.9500489830970764, test_accuracy: 0.7513000011444092
+Epoch 95
+Loss: 31515.7888, Accuracy classifier: 0.7353, Accuracy recon: 0.9485
+train_loss: 31515.788790189305, train_recon: 0.9485444414309966, train_accuracy: 0.7352879126866658
+Loss: 31329.2958, Accuracy classifier: 0.7568, Accuracy recon: 0.9493
+test_loss: 31329.29580078125, test_recon: 0.9493131369352341, test_accuracy: 0.7567999973893166
+
+Training with 2.0% labeled data
+Epoch 0
+Loss: 56524.9951, Accuracy classifier: 0.1005, Accuracy recon: 0.8728
+train_loss: 56524.9951171875, train_recon: 0.8728025448627961, train_accuracy: 0.10051282120820804
+Loss: 56337.1615, Accuracy classifier: 0.1010, Accuracy recon: 0.8729
+test_loss: 56337.16149902344, test_recon: 0.8728658139705658, test_accuracy: 0.10100000072270632
+Epoch 5
+Loss: 42295.3506, Accuracy classifier: 0.3757, Accuracy recon: 0.9179
+train_loss: 42295.3506247496, train_recon: 0.9178816587497026, train_accuracy: 0.3756688645252815
+Loss: 42093.1266, Accuracy classifier: 0.3886, Accuracy recon: 0.9193
+test_loss: 42093.126635742185, test_recon: 0.9193033173680305, test_accuracy: 0.38859999999403955
+Epoch 10
+Loss: 37741.3128, Accuracy classifier: 0.4059, Accuracy recon: 0.9316
+train_loss: 37741.312804236775, train_recon: 0.9315540368740375, train_accuracy: 0.40591062368490755
+Loss: 37435.7478, Accuracy classifier: 0.4046, Accuracy recon: 0.9330
+test_loss: 37435.747802734375, test_recon: 0.9330065041780472, test_accuracy: 0.4046000003814697
+Epoch 15
+Loss: 35932.4043, Accuracy classifier: 0.5183, Accuracy recon: 0.9358
+train_loss: 35932.40428748498, train_recon: 0.9357870893600659, train_accuracy: 0.5183355305439387
+Loss: 35603.6344, Accuracy classifier: 0.5256, Accuracy recon: 0.9372
+test_loss: 35603.63439941406, test_recon: 0.937200379371643, test_accuracy: 0.5256000012159348
+Epoch 20
+Loss: 35049.6057, Accuracy classifier: 0.6107, Accuracy recon: 0.9380
+train_loss: 35049.605736678684, train_recon: 0.9380357601703742, train_accuracy: 0.6107194133293934
+Loss: 34705.6365, Accuracy classifier: 0.6173, Accuracy recon: 0.9395
+test_loss: 34705.636499023436, test_recon: 0.9394751280546189, test_accuracy: 0.6172999992966652
+Epoch 25
+Loss: 34416.5984, Accuracy classifier: 0.5757, Accuracy recon: 0.9408
+train_loss: 34416.5983579978, train_recon: 0.9407562378125313, train_accuracy: 0.5756776568217156
+Loss: 34118.9776, Accuracy classifier: 0.5821, Accuracy recon: 0.9421
+test_loss: 34118.97761230469, test_recon: 0.9420858383178711, test_accuracy: 0.5820999994874001
+Epoch 30
+Loss: 33748.4599, Accuracy classifier: 0.6210, Accuracy recon: 0.9428
+train_loss: 33748.45986109025, train_recon: 0.9428336314665966, train_accuracy: 0.6209963379762111
+Loss: 33454.4847, Accuracy classifier: 0.6261, Accuracy recon: 0.9441
+test_loss: 33454.484692382815, test_recon: 0.9441161960363388, test_accuracy: 0.6260999992489815
+Epoch 35
+Loss: 33371.0044, Accuracy classifier: 0.6404, Accuracy recon: 0.9445
+train_loss: 33371.00437950721, train_recon: 0.9444698734161181, train_accuracy: 0.6403604397406945
+Loss: 33099.4905, Accuracy classifier: 0.6478, Accuracy recon: 0.9457
+test_loss: 33099.490502929686, test_recon: 0.9457359716296196, test_accuracy: 0.6478000015020371
+Epoch 40
+Loss: 33008.2827, Accuracy classifier: 0.6417, Accuracy recon: 0.9451
+train_loss: 33008.28272986779, train_recon: 0.94507514330057, train_accuracy: 0.6416527469952901
+Loss: 32719.3768, Accuracy classifier: 0.6530, Accuracy recon: 0.9462
+test_loss: 32719.3767578125, test_recon: 0.9461873710155487, test_accuracy: 0.6530000016093254
+Epoch 45
+Loss: 32637.9688, Accuracy classifier: 0.6956, Accuracy recon: 0.9457
+train_loss: 32637.968835136217, train_recon: 0.9456952202014434, train_accuracy: 0.6956014642348656
+Loss: 32373.3044, Accuracy classifier: 0.7048, Accuracy recon: 0.9470
+test_loss: 32373.304443359375, test_recon: 0.9469987273216247, test_accuracy: 0.7048000007867813
+Epoch 50
+Loss: 32276.9713, Accuracy classifier: 0.6993, Accuracy recon: 0.9473
+train_loss: 32276.97125744942, train_recon: 0.9473172863324483, train_accuracy: 0.6992732610457982
+Loss: 32039.4469, Accuracy classifier: 0.7119, Accuracy recon: 0.9486
+test_loss: 32039.446875, test_recon: 0.9485654279589653, test_accuracy: 0.7118999972939491
+Epoch 55
+Loss: 32070.7724, Accuracy classifier: 0.7259, Accuracy recon: 0.9476
+train_loss: 32070.772434645434, train_recon: 0.9476430782904992, train_accuracy: 0.7259194138722542
+Loss: 31884.8532, Accuracy classifier: 0.7405, Accuracy recon: 0.9487
+test_loss: 31884.853173828124, test_recon: 0.9487498760223388, test_accuracy: 0.7404999986290932
+Epoch 60
+Loss: 31785.7830, Accuracy classifier: 0.7269, Accuracy recon: 0.9486
+train_loss: 31785.78300343049, train_recon: 0.9486118441972977, train_accuracy: 0.7268835168618423
+Loss: 31538.4976, Accuracy classifier: 0.7389, Accuracy recon: 0.9497
+test_loss: 31538.497631835937, test_recon: 0.9496897906064987, test_accuracy: 0.7388999983668327
+Epoch 65
+Loss: 31585.0854, Accuracy classifier: 0.7381, Accuracy recon: 0.9497
+train_loss: 31585.085419483676, train_recon: 0.9496937091533955, train_accuracy: 0.7380630028553498
+Loss: 31377.3889, Accuracy classifier: 0.7523, Accuracy recon: 0.9507
+test_loss: 31377.388916015625, test_recon: 0.9506784409284592, test_accuracy: 0.7522999987006187
+Epoch 70
+Loss: 31349.0741, Accuracy classifier: 0.7252, Accuracy recon: 0.9497
+train_loss: 31349.074123597755, train_recon: 0.9497374705779247, train_accuracy: 0.7252366313567529
+Loss: 31199.0589, Accuracy classifier: 0.7358, Accuracy recon: 0.9506
+test_loss: 31199.058862304686, test_recon: 0.9505974546074867, test_accuracy: 0.7357999995350838
+Epoch 75
+Loss: 31195.5173, Accuracy classifier: 0.7325, Accuracy recon: 0.9503
+train_loss: 31195.51729767628, train_recon: 0.9502624701230954, train_accuracy: 0.7324776582228831
+Loss: 31084.9599, Accuracy classifier: 0.7416, Accuracy recon: 0.9512
+test_loss: 31084.959912109374, test_recon: 0.9511521697044373, test_accuracy: 0.7416000053286552
+Epoch 80
+Loss: 31098.2985, Accuracy classifier: 0.7168, Accuracy recon: 0.9505
+train_loss: 31098.298463166066, train_recon: 0.9504563585305825, train_accuracy: 0.7167648349052821
+Loss: 30898.5801, Accuracy classifier: 0.7306, Accuracy recon: 0.9512
+test_loss: 30898.58010253906, test_recon: 0.9511917144060135, test_accuracy: 0.7306000009179116
+Epoch 85
+Loss: 31207.1360, Accuracy classifier: 0.7135, Accuracy recon: 0.9505
+train_loss: 31207.136047676282, train_recon: 0.9504687691346193, train_accuracy: 0.7134886466539823
+Loss: 31060.2095, Accuracy classifier: 0.7217, Accuracy recon: 0.9513
+test_loss: 31060.209521484376, test_recon: 0.9513093069195747, test_accuracy: 0.7217000007629395
+Epoch 90
+Loss: 31034.2807, Accuracy classifier: 0.7088, Accuracy recon: 0.9506
+train_loss: 31034.28069880559, train_recon: 0.9506129601062873, train_accuracy: 0.7088322346027081
+Loss: 30921.3493, Accuracy classifier: 0.7194, Accuracy recon: 0.9514
+test_loss: 30921.349340820314, test_recon: 0.9514436244964599, test_accuracy: 0.7193999961018562
+Epoch 95
+Loss: 30972.7949, Accuracy classifier: 0.7392, Accuracy recon: 0.9510
+train_loss: 30972.79489808694, train_recon: 0.9510235817004473, train_accuracy: 0.7391706977135096
+Loss: 30928.7252, Accuracy classifier: 0.7537, Accuracy recon: 0.9517
+test_loss: 30928.7251953125, test_recon: 0.9516996130347252, test_accuracy: 0.7537000000476837
+
+Training with 3.0% labeled data
+Epoch 0
+Loss: 55123.9537, Accuracy classifier: 0.1005, Accuracy recon: 0.8737
+train_loss: 55123.95372971755, train_recon: 0.8736723939577739, train_accuracy: 0.10051282069239861
+Loss: 54988.9066, Accuracy classifier: 0.0958, Accuracy recon: 0.8741
+test_loss: 54988.906640625, test_recon: 0.8741368651390076, test_accuracy: 0.09580000024288893
+Epoch 5
+Loss: 42671.9408, Accuracy classifier: 0.3923, Accuracy recon: 0.9186
+train_loss: 42671.940846604564, train_recon: 0.9186247220406165, train_accuracy: 0.39226373709165135
+Loss: 42330.9687, Accuracy classifier: 0.4012, Accuracy recon: 0.9203
+test_loss: 42330.96870117188, test_recon: 0.9203323990106582, test_accuracy: 0.40120000019669533
+Epoch 10
+Loss: 38177.6762, Accuracy classifier: 0.5172, Accuracy recon: 0.9285
+train_loss: 38177.67624198718, train_recon: 0.9284853397271572, train_accuracy: 0.5171663004618424
+Loss: 37856.1240, Accuracy classifier: 0.5303, Accuracy recon: 0.9301
+test_loss: 37856.12404785156, test_recon: 0.9301376312971115, test_accuracy: 0.5303000025451183
+Epoch 15
+Loss: 36440.5299, Accuracy classifier: 0.6038, Accuracy recon: 0.9339
+train_loss: 36440.529919746594, train_recon: 0.933882938287197, train_accuracy: 0.6037919408235795
+Loss: 36206.2279, Accuracy classifier: 0.6258, Accuracy recon: 0.9352
+test_loss: 36206.2279296875, test_recon: 0.9351644113659858, test_accuracy: 0.6258000001311302
+Epoch 20
+Loss: 35588.9846, Accuracy classifier: 0.6218, Accuracy recon: 0.9372
+train_loss: 35588.98456092248, train_recon: 0.9371866287329258, train_accuracy: 0.6218227123602843
+Loss: 35285.6790, Accuracy classifier: 0.6439, Accuracy recon: 0.9385
+test_loss: 35285.678955078125, test_recon: 0.938465304672718, test_accuracy: 0.6438999995589256
+Epoch 25
+Loss: 34846.9422, Accuracy classifier: 0.6353, Accuracy recon: 0.9389
+train_loss: 34846.942243214144, train_recon: 0.9388617029556862, train_accuracy: 0.6353494500502562
+Loss: 34578.4882, Accuracy classifier: 0.6442, Accuracy recon: 0.9401
+test_loss: 34578.48820800781, test_recon: 0.9400572687387466, test_accuracy: 0.6441999971866608
+Epoch 30
+Loss: 34253.3732, Accuracy classifier: 0.6166, Accuracy recon: 0.9403
+train_loss: 34253.37315141727, train_recon: 0.9403031022120745, train_accuracy: 0.616550918114491
+Loss: 33939.1389, Accuracy classifier: 0.6223, Accuracy recon: 0.9415
+test_loss: 33939.138891601564, test_recon: 0.9414830356836319, test_accuracy: 0.6223000034689903
+Epoch 35
+Loss: 33790.8874, Accuracy classifier: 0.6450, Accuracy recon: 0.9419
+train_loss: 33790.88735601963, train_recon: 0.9418997443639315, train_accuracy: 0.6450109915855603
+Loss: 33549.1645, Accuracy classifier: 0.6618, Accuracy recon: 0.9430
+test_loss: 33549.16447753906, test_recon: 0.9430295914411545, test_accuracy: 0.6617999985814095
+Epoch 40
+Loss: 33311.3203, Accuracy classifier: 0.6944, Accuracy recon: 0.9447
+train_loss: 33311.320321577026, train_recon: 0.9447329750427833, train_accuracy: 0.6943648362771059
+Loss: 33036.5824, Accuracy classifier: 0.7122, Accuracy recon: 0.9459
+test_loss: 33036.582421875, test_recon: 0.9458845630288124, test_accuracy: 0.7121999993920326
+Epoch 45
+Loss: 32746.0424, Accuracy classifier: 0.7032, Accuracy recon: 0.9461
+train_loss: 32746.042419433594, train_recon: 0.946115698875525, train_accuracy: 0.7031501837265797
+Loss: 32427.4272, Accuracy classifier: 0.7167, Accuracy recon: 0.9473
+test_loss: 32427.42722167969, test_recon: 0.9473105877637863, test_accuracy: 0.7167000040411949
+Epoch 50
+Loss: 32343.7865, Accuracy classifier: 0.6877, Accuracy recon: 0.9480
+train_loss: 32343.786549103566, train_recon: 0.9480311916424677, train_accuracy: 0.6877040294500497
+Loss: 32092.2881, Accuracy classifier: 0.7020, Accuracy recon: 0.9491
+test_loss: 32092.28811035156, test_recon: 0.9491316303610802, test_accuracy: 0.7019999995827675
+Epoch 55
+Loss: 32013.0753, Accuracy classifier: 0.7040, Accuracy recon: 0.9486
+train_loss: 32013.075259790665, train_recon: 0.9486466881556389, train_accuracy: 0.7039706960702554
+Loss: 31818.3002, Accuracy classifier: 0.7183, Accuracy recon: 0.9498
+test_loss: 31818.300244140624, test_recon: 0.9497871205210686, test_accuracy: 0.7183000043034553
+Epoch 60
+Loss: 31848.5696, Accuracy classifier: 0.6841, Accuracy recon: 0.9493
+train_loss: 31848.569608248195, train_recon: 0.9493059500669822, train_accuracy: 0.6841347997005169
+Loss: 31579.3184, Accuracy classifier: 0.6961, Accuracy recon: 0.9504
+test_loss: 31579.318359375, test_recon: 0.9503677263855934, test_accuracy: 0.6960999995470047
+Epoch 65
+Loss: 31565.8821, Accuracy classifier: 0.7245, Accuracy recon: 0.9501
+train_loss: 31565.882104179185, train_recon: 0.9501345273775932, train_accuracy: 0.7245245426129072
+Loss: 31413.9458, Accuracy classifier: 0.7318, Accuracy recon: 0.9511
+test_loss: 31413.945849609376, test_recon: 0.9510835379362106, test_accuracy: 0.7317999958992004
+Epoch 70
+Loss: 31348.9246, Accuracy classifier: 0.7280, Accuracy recon: 0.9501
+train_loss: 31348.924603427986, train_recon: 0.950106313595405, train_accuracy: 0.7279501841618464
+Loss: 31166.1681, Accuracy classifier: 0.7394, Accuracy recon: 0.9511
+test_loss: 31166.168115234374, test_recon: 0.95112474411726, test_accuracy: 0.7394000008702278
+Epoch 75
+Loss: 31149.4685, Accuracy classifier: 0.7447, Accuracy recon: 0.9505
+train_loss: 31149.468517753405, train_recon: 0.9505118794930287, train_accuracy: 0.7446827830412449
+Loss: 31022.3562, Accuracy classifier: 0.7613, Accuracy recon: 0.9516
+test_loss: 31022.356225585936, test_recon: 0.9515574038028717, test_accuracy: 0.7612999990582466
+Epoch 80
+Loss: 30975.5939, Accuracy classifier: 0.7472, Accuracy recon: 0.9501
+train_loss: 30975.593915890426, train_recon: 0.9500743251580458, train_accuracy: 0.7471706952804175
+Loss: 30796.8829, Accuracy classifier: 0.7683, Accuracy recon: 0.9511
+test_loss: 30796.882934570312, test_recon: 0.9510803565382957, test_accuracy: 0.7683000013232231
+Epoch 85
+Loss: 30723.8489, Accuracy classifier: 0.7490, Accuracy recon: 0.9513
+train_loss: 30723.848926407252, train_recon: 0.9513335319665762, train_accuracy: 0.7490373632846734
+Loss: 30572.9047, Accuracy classifier: 0.7639, Accuracy recon: 0.9522
+test_loss: 30572.904736328124, test_recon: 0.9521838009357453, test_accuracy: 0.7638999968767166
+Epoch 90
+Loss: 30609.9105, Accuracy classifier: 0.7628, Accuracy recon: 0.9523
+train_loss: 30609.910487404846, train_recon: 0.9522797544797261, train_accuracy: 0.7628219766494555
+Loss: 30483.3123, Accuracy classifier: 0.7804, Accuracy recon: 0.9532
+test_loss: 30483.31232910156, test_recon: 0.9531503781676293, test_accuracy: 0.7803999975323677
+Epoch 95
+Loss: 30664.3332, Accuracy classifier: 0.7170, Accuracy recon: 0.9526
+train_loss: 30664.333168694913, train_recon: 0.9525651424359053, train_accuracy: 0.7170168522076729
+Loss: 30503.7611, Accuracy classifier: 0.7290, Accuracy recon: 0.9533
+test_loss: 30503.7611328125, test_recon: 0.9533419638872147, test_accuracy: 0.7289999961853028
+
+Training with 4.0% labeled data
+Epoch 0
+Loss: 55689.8823, Accuracy classifier: 0.0943, Accuracy recon: 0.8733
+train_loss: 55689.8823035607, train_recon: 0.873263302216163, train_accuracy: 0.09431208790494845
+Loss: 55547.0052, Accuracy classifier: 0.0959, Accuracy recon: 0.8737
+test_loss: 55547.00522460938, test_recon: 0.8737359747290612, test_accuracy: 0.09590000044554473
+Epoch 5
+Loss: 42378.7756, Accuracy classifier: 0.3561, Accuracy recon: 0.9165
+train_loss: 42378.775642277644, train_recon: 0.9165341847982162, train_accuracy: 0.3561142867956406
+Loss: 42061.4229, Accuracy classifier: 0.3604, Accuracy recon: 0.9180
+test_loss: 42061.42294921875, test_recon: 0.9180463030934334, test_accuracy: 0.3603999987244606
+Epoch 10
+Loss: 38030.7618, Accuracy classifier: 0.5513, Accuracy recon: 0.9293
+train_loss: 38030.761789488184, train_recon: 0.9293342703428024, train_accuracy: 0.5512879157677675
+Loss: 37712.1913, Accuracy classifier: 0.5697, Accuracy recon: 0.9308
+test_loss: 37712.19130859375, test_recon: 0.9308338016271591, test_accuracy: 0.5697000019252301
+Epoch 15
+Loss: 36573.2356, Accuracy classifier: 0.5210, Accuracy recon: 0.9353
+train_loss: 36573.235640149236, train_recon: 0.935280020420368, train_accuracy: 0.5209553142388662
+Loss: 36279.6791, Accuracy classifier: 0.5339, Accuracy recon: 0.9366
+test_loss: 36279.67907714844, test_recon: 0.9365864813327789, test_accuracy: 0.5339000046253204
+Epoch 20
+Loss: 35187.3406, Accuracy classifier: 0.6249, Accuracy recon: 0.9389
+train_loss: 35187.34057930188, train_recon: 0.9389220482263809, train_accuracy: 0.6249289378141746
+Loss: 34807.3966, Accuracy classifier: 0.6396, Accuracy recon: 0.9402
+test_loss: 34807.39663085937, test_recon: 0.9402233466506005, test_accuracy: 0.6396000027656555
+Epoch 25
+Loss: 34549.2431, Accuracy classifier: 0.5994, Accuracy recon: 0.9407
+train_loss: 34549.24314778646, train_recon: 0.9406520632597116, train_accuracy: 0.5993699642328115
+Loss: 34289.8790, Accuracy classifier: 0.6183, Accuracy recon: 0.9420
+test_loss: 34289.87900390625, test_recon: 0.9420038282871246, test_accuracy: 0.6183000028133392
+Epoch 30
+Loss: 33719.6822, Accuracy classifier: 0.6300, Accuracy recon: 0.9425
+train_loss: 33719.68220715645, train_recon: 0.9425326818074935, train_accuracy: 0.6300366319142855
+Loss: 33399.1069, Accuracy classifier: 0.6463, Accuracy recon: 0.9437
+test_loss: 33399.10690917969, test_recon: 0.9437362253665924, test_accuracy: 0.6462999999523162
+Epoch 35
+Loss: 33307.3563, Accuracy classifier: 0.6685, Accuracy recon: 0.9440
+train_loss: 33307.356259703025, train_recon: 0.9440294531675485, train_accuracy: 0.6685391951829959
+Loss: 33017.0167, Accuracy classifier: 0.6938, Accuracy recon: 0.9453
+test_loss: 33017.01667480469, test_recon: 0.9452802315354347, test_accuracy: 0.6937999978661538
+Epoch 40
+Loss: 32987.2160, Accuracy classifier: 0.6714, Accuracy recon: 0.9449
+train_loss: 32987.21601812901, train_recon: 0.9448804840063437, train_accuracy: 0.6713699643428509
+Loss: 32727.4158, Accuracy classifier: 0.6940, Accuracy recon: 0.9461
+test_loss: 32727.41584472656, test_recon: 0.9460771679878235, test_accuracy: 0.6939999997615814
+Epoch 45
+Loss: 32773.1543, Accuracy classifier: 0.6921, Accuracy recon: 0.9459
+train_loss: 32773.15431690705, train_recon: 0.9458846144187145, train_accuracy: 0.6921289367553515
+Loss: 32537.9592, Accuracy classifier: 0.7090, Accuracy recon: 0.9469
+test_loss: 32537.9591796875, test_recon: 0.9469181135296821, test_accuracy: 0.709000001847744
+Epoch 50
+Loss: 32314.9381, Accuracy classifier: 0.7195, Accuracy recon: 0.9465
+train_loss: 32314.93806214944, train_recon: 0.946453107931675, train_accuracy: 0.7194930422000396
+Loss: 32141.5570, Accuracy classifier: 0.7424, Accuracy recon: 0.9475
+test_loss: 32141.55703125, test_recon: 0.947505098581314, test_accuracy: 0.7423999980092049
+Epoch 55
+Loss: 32129.1044, Accuracy classifier: 0.7154, Accuracy recon: 0.9484
+train_loss: 32129.10439171424, train_recon: 0.9483823222991747, train_accuracy: 0.7154315016208551
+Loss: 31985.5341, Accuracy classifier: 0.7375, Accuracy recon: 0.9495
+test_loss: 31985.534130859374, test_recon: 0.9494883924722671, test_accuracy: 0.7374999985098839
+Epoch 60
+Loss: 32040.4721, Accuracy classifier: 0.7590, Accuracy recon: 0.9489
+train_loss: 32040.472055914463, train_recon: 0.9489429755088611, train_accuracy: 0.7590212452105987
+Loss: 31884.0961, Accuracy classifier: 0.7751, Accuracy recon: 0.9499
+test_loss: 31884.096142578124, test_recon: 0.9498730897903442, test_accuracy: 0.7750999972224235
+Epoch 65
+Loss: 31706.4539, Accuracy classifier: 0.7415, Accuracy recon: 0.9492
+train_loss: 31706.453928160056, train_recon: 0.9491841300939903, train_accuracy: 0.7414827838922158
+Loss: 31527.3850, Accuracy classifier: 0.7588, Accuracy recon: 0.9500
+test_loss: 31527.384985351564, test_recon: 0.9499914586544037, test_accuracy: 0.758799996972084
+Epoch 70
+Loss: 31508.0405, Accuracy classifier: 0.7188, Accuracy recon: 0.9495
+train_loss: 31508.040458483574, train_recon: 0.9494621869845268, train_accuracy: 0.7187545791650429
+Loss: 31372.3733, Accuracy classifier: 0.7335, Accuracy recon: 0.9504
+test_loss: 31372.373291015625, test_recon: 0.950420281291008, test_accuracy: 0.733500000834465
+Epoch 75
+Loss: 31287.1446, Accuracy classifier: 0.6846, Accuracy recon: 0.9495
+train_loss: 31287.144553786056, train_recon: 0.9495096781314948, train_accuracy: 0.684580218180632
+Loss: 31185.0238, Accuracy classifier: 0.7074, Accuracy recon: 0.9503
+test_loss: 31185.02375488281, test_recon: 0.9503039538860321, test_accuracy: 0.7074000000953674
+Epoch 80
+Loss: 31402.3271, Accuracy classifier: 0.7075, Accuracy recon: 0.9497
+train_loss: 31402.327074882312, train_recon: 0.94972110191981, train_accuracy: 0.7074725267214653
+Loss: 31245.0679, Accuracy classifier: 0.7297, Accuracy recon: 0.9505
+test_loss: 31245.06787109375, test_recon: 0.9504896700382233, test_accuracy: 0.7296999990940094
+Epoch 85
+Loss: 31007.9651, Accuracy classifier: 0.7282, Accuracy recon: 0.9512
+train_loss: 31007.965119190707, train_recon: 0.9511911016244154, train_accuracy: 0.7281699645213592
+Loss: 30872.2364, Accuracy classifier: 0.7505, Accuracy recon: 0.9520
+test_loss: 30872.23635253906, test_recon: 0.9519820153713227, test_accuracy: 0.7504999935626984
+Epoch 90
+Loss: 30819.6130, Accuracy classifier: 0.7594, Accuracy recon: 0.9506
+train_loss: 30819.6130070613, train_recon: 0.9505882654434595, train_accuracy: 0.7593904773394267
+Loss: 30710.3276, Accuracy classifier: 0.7771, Accuracy recon: 0.9514
+test_loss: 30710.32761230469, test_recon: 0.9513528034090996, test_accuracy: 0.7770999953150749
+Epoch 95
+Loss: 30717.3259, Accuracy classifier: 0.7551, Accuracy recon: 0.9513
+train_loss: 30717.32593430739, train_recon: 0.9512544907056368, train_accuracy: 0.7550827839435675
+Loss: 30619.3286, Accuracy classifier: 0.7782, Accuracy recon: 0.9519
+test_loss: 30619.32863769531, test_recon: 0.9519341871142387, test_accuracy: 0.7781999990344047
+
+Training with 5.0% labeled data
+Epoch 0
+Loss: 56051.6024, Accuracy classifier: 0.1012, Accuracy recon: 0.8737
+train_loss: 56051.60244078025, train_recon: 0.8737190821231939, train_accuracy: 0.10122490859566591
+Loss: 56023.5053, Accuracy classifier: 0.1028, Accuracy recon: 0.8740
+test_loss: 56023.50529785156, test_recon: 0.8740047201514244, test_accuracy: 0.10280000073835253
+Epoch 5
+Loss: 42348.4676, Accuracy classifier: 0.3227, Accuracy recon: 0.9189
+train_loss: 42348.46756842198, train_recon: 0.9189078126198206, train_accuracy: 0.3226549464922685
+Loss: 42033.5853, Accuracy classifier: 0.3108, Accuracy recon: 0.9204
+test_loss: 42033.58525390625, test_recon: 0.9204241052269936, test_accuracy: 0.3108000002801418
+Epoch 10
+Loss: 38098.1433, Accuracy classifier: 0.4921, Accuracy recon: 0.9307
+train_loss: 38098.14326735277, train_recon: 0.9307345066315088, train_accuracy: 0.49205274963990236
+Loss: 37795.2490, Accuracy classifier: 0.5006, Accuracy recon: 0.9321
+test_loss: 37795.24895019531, test_recon: 0.9321065038442612, test_accuracy: 0.5005999974906444
+Epoch 15
+Loss: 36141.4835, Accuracy classifier: 0.5672, Accuracy recon: 0.9353
+train_loss: 36141.48346792368, train_recon: 0.9353325269161127, train_accuracy: 0.56723223618972
+Loss: 35821.1978, Accuracy classifier: 0.5747, Accuracy recon: 0.9369
+test_loss: 35821.19782714844, test_recon: 0.936924746632576, test_accuracy: 0.5747000008821488
+Epoch 20
+Loss: 35277.8311, Accuracy classifier: 0.5372, Accuracy recon: 0.9381
+train_loss: 35277.8310546875, train_recon: 0.9381274244724176, train_accuracy: 0.5371604408973303
+Loss: 35030.7725, Accuracy classifier: 0.5450, Accuracy recon: 0.9395
+test_loss: 35030.77248535156, test_recon: 0.9395112246274948, test_accuracy: 0.5449999995529652
+Epoch 25
+Loss: 34446.1582, Accuracy classifier: 0.5789, Accuracy recon: 0.9406
+train_loss: 34446.15818684896, train_recon: 0.9406018156271715, train_accuracy: 0.5788835177054772
+Loss: 34126.8933, Accuracy classifier: 0.5908, Accuracy recon: 0.9419
+test_loss: 34126.893286132814, test_recon: 0.9418650507926941, test_accuracy: 0.5907999962568283
+Epoch 30
+Loss: 34062.5472, Accuracy classifier: 0.5868, Accuracy recon: 0.9415
+train_loss: 34062.54724246294, train_recon: 0.9415320093815144, train_accuracy: 0.5868424904652131
+Loss: 33740.9808, Accuracy classifier: 0.5987, Accuracy recon: 0.9430
+test_loss: 33740.980786132815, test_recon: 0.9429923444986343, test_accuracy: 0.5987000003457069
+Epoch 35
+Loss: 33382.7305, Accuracy classifier: 0.6331, Accuracy recon: 0.9435
+train_loss: 33382.7305100661, train_recon: 0.9434905006335332, train_accuracy: 0.6330725278609838
+Loss: 33112.0870, Accuracy classifier: 0.6475, Accuracy recon: 0.9449
+test_loss: 33112.08696289062, test_recon: 0.9449142828583718, test_accuracy: 0.6475000023841858
+Epoch 40
+Loss: 33084.9398, Accuracy classifier: 0.6491, Accuracy recon: 0.9446
+train_loss: 33084.93975923979, train_recon: 0.9445921586110042, train_accuracy: 0.6490989024822529
+Loss: 32743.1663, Accuracy classifier: 0.6638, Accuracy recon: 0.9459
+test_loss: 32743.16630859375, test_recon: 0.945937117934227, test_accuracy: 0.6637999966740609
+Epoch 45
+Loss: 32620.5743, Accuracy classifier: 0.6689, Accuracy recon: 0.9459
+train_loss: 32620.574270082132, train_recon: 0.9459333676558275, train_accuracy: 0.6689494515076662
+Loss: 32363.2025, Accuracy classifier: 0.6909, Accuracy recon: 0.9472
+test_loss: 32363.202514648438, test_recon: 0.9472159415483474, test_accuracy: 0.6909000009298325
+Epoch 50
+Loss: 32424.3264, Accuracy classifier: 0.6744, Accuracy recon: 0.9467
+train_loss: 32424.326356858473, train_recon: 0.9466830455339872, train_accuracy: 0.6743853480387957
+Loss: 32174.9517, Accuracy classifier: 0.6944, Accuracy recon: 0.9479
+test_loss: 32174.95168457031, test_recon: 0.9479239776730537, test_accuracy: 0.6943999961018562
+Epoch 55
+Loss: 32139.9581, Accuracy classifier: 0.7112, Accuracy recon: 0.9482
+train_loss: 32139.958069160657, train_recon: 0.9481534202893575, train_accuracy: 0.7111853489508996
+Loss: 31922.0022, Accuracy classifier: 0.7296, Accuracy recon: 0.9491
+test_loss: 31922.00224609375, test_recon: 0.9491366073489189, test_accuracy: 0.7295999974012375
+Epoch 60
+Loss: 31824.2762, Accuracy classifier: 0.6837, Accuracy recon: 0.9482
+train_loss: 31824.27620724409, train_recon: 0.9482237201470595, train_accuracy: 0.683698168473366
+Loss: 31573.9117, Accuracy classifier: 0.7072, Accuracy recon: 0.9493
+test_loss: 31573.911669921876, test_recon: 0.9493121191859245, test_accuracy: 0.7071999996900559
+Epoch 65
+Loss: 31775.5937, Accuracy classifier: 0.6550, Accuracy recon: 0.9485
+train_loss: 31775.593713691906, train_recon: 0.9485132510845478, train_accuracy: 0.6550065930073078
+Loss: 31594.0477, Accuracy classifier: 0.6773, Accuracy recon: 0.9494
+test_loss: 31594.04765625, test_recon: 0.9494447693228721, test_accuracy: 0.6772999957203865
+Epoch 70
+Loss: 31486.1880, Accuracy classifier: 0.6775, Accuracy recon: 0.9495
+train_loss: 31486.188014573316, train_recon: 0.9495329294449244, train_accuracy: 0.6774827831830734
+Loss: 31288.9163, Accuracy classifier: 0.7014, Accuracy recon: 0.9506
+test_loss: 31288.916284179686, test_recon: 0.950587372481823, test_accuracy: 0.7013999983668328
+Epoch 75
+Loss: 31272.1501, Accuracy classifier: 0.7248, Accuracy recon: 0.9499
+train_loss: 31272.15010203826, train_recon: 0.9498788066399403, train_accuracy: 0.7248263753377474
+Loss: 31092.2461, Accuracy classifier: 0.7446, Accuracy recon: 0.9510
+test_loss: 31092.24609375, test_recon: 0.9509572699666023, test_accuracy: 0.7445999935269356
+Epoch 80
+Loss: 31124.3664, Accuracy classifier: 0.6885, Accuracy recon: 0.9499
+train_loss: 31124.36639122596, train_recon: 0.9498964603130634, train_accuracy: 0.6884571448350564
+Loss: 30931.5822, Accuracy classifier: 0.7052, Accuracy recon: 0.9508
+test_loss: 30931.582177734374, test_recon: 0.9508372440934181, test_accuracy: 0.7052000001072883
+Epoch 85
+Loss: 31053.0262, Accuracy classifier: 0.6768, Accuracy recon: 0.9500
+train_loss: 31053.026239483173, train_recon: 0.9500322687320221, train_accuracy: 0.6767648363724733
+Loss: 30853.2632, Accuracy classifier: 0.6965, Accuracy recon: 0.9510
+test_loss: 30853.26320800781, test_recon: 0.951034440100193, test_accuracy: 0.6964999973773957
+Epoch 90
+Loss: 30900.6276, Accuracy classifier: 0.6917, Accuracy recon: 0.9508
+train_loss: 30900.62758319561, train_recon: 0.9507503433105273, train_accuracy: 0.6916835176639068
+Loss: 30736.6757, Accuracy classifier: 0.7117, Accuracy recon: 0.9515
+test_loss: 30736.675659179688, test_recon: 0.9515493676066399, test_accuracy: 0.7117000043392181
+Epoch 95
+Loss: 30914.7228, Accuracy classifier: 0.7396, Accuracy recon: 0.9514
+train_loss: 30914.722838103466, train_recon: 0.9514015020468296, train_accuracy: 0.7395545788300343
+Loss: 30740.4466, Accuracy classifier: 0.7608, Accuracy recon: 0.9523
+test_loss: 30740.446630859376, test_recon: 0.9522845640778541, test_accuracy: 0.7607999965548515
+
+Training with 6.0% labeled data
+Epoch 0
+Loss: 57105.2261, Accuracy classifier: 0.1012, Accuracy recon: 0.8717
+train_loss: 57105.2260955028, train_recon: 0.87168460778701, train_accuracy: 0.10122490859566591
+Loss: 57014.8058, Accuracy classifier: 0.1028, Accuracy recon: 0.8721
+test_loss: 57014.80581054687, test_recon: 0.8721281915903092, test_accuracy: 0.10280000036582351
+Epoch 5
+Loss: 42205.9582, Accuracy classifier: 0.2435, Accuracy recon: 0.9194
+train_loss: 42205.95822127905, train_recon: 0.9194396599745139, train_accuracy: 0.24354285788841737
+Loss: 41956.1226, Accuracy classifier: 0.2391, Accuracy recon: 0.9210
+test_loss: 41956.12260742187, test_recon: 0.9210070177912713, test_accuracy: 0.23910000137984752
+Epoch 10
+Loss: 38303.5810, Accuracy classifier: 0.4391, Accuracy recon: 0.9299
+train_loss: 38303.581008363384, train_recon: 0.9298908918331831, train_accuracy: 0.43911501872233855
+Loss: 37971.7588, Accuracy classifier: 0.4354, Accuracy recon: 0.9312
+test_loss: 37971.75876464844, test_recon: 0.9312403097748756, test_accuracy: 0.4354000002145767
+Epoch 15
+Loss: 36210.5734, Accuracy classifier: 0.5662, Accuracy recon: 0.9354
+train_loss: 36210.57339180188, train_recon: 0.9354419815234649, train_accuracy: 0.566150914094387
+Loss: 35886.6251, Accuracy classifier: 0.5799, Accuracy recon: 0.9369
+test_loss: 35886.62514648437, test_recon: 0.9369256392121315, test_accuracy: 0.5799000024795532
+Epoch 20
+Loss: 34895.5876, Accuracy classifier: 0.5580, Accuracy recon: 0.9392
+train_loss: 34895.58762081831, train_recon: 0.9392286208959726, train_accuracy: 0.5579604413264837
+Loss: 34658.0092, Accuracy classifier: 0.5822, Accuracy recon: 0.9407
+test_loss: 34658.0091796875, test_recon: 0.9406752526760102, test_accuracy: 0.5821999981999397
+Epoch 25
+Loss: 34312.2991, Accuracy classifier: 0.6579, Accuracy recon: 0.9407
+train_loss: 34312.299083220656, train_recon: 0.940719351096031, train_accuracy: 0.6578725286019154
+Loss: 34019.7753, Accuracy classifier: 0.6797, Accuracy recon: 0.9421
+test_loss: 34019.77531738281, test_recon: 0.9420975789427757, test_accuracy: 0.6797000005841255
+Epoch 30
+Loss: 33887.7254, Accuracy classifier: 0.6479, Accuracy recon: 0.9423
+train_loss: 33887.725415039065, train_recon: 0.9423375921371656, train_accuracy: 0.6479238103597592
+Loss: 33670.2692, Accuracy classifier: 0.6719, Accuracy recon: 0.9438
+test_loss: 33670.26916503906, test_recon: 0.943824616074562, test_accuracy: 0.671899999678135
+Epoch 35
+Loss: 33362.9267, Accuracy classifier: 0.6482, Accuracy recon: 0.9431
+train_loss: 33362.9267177484, train_recon: 0.9430714735618004, train_accuracy: 0.6481904766498467
+Loss: 33064.4479, Accuracy classifier: 0.6708, Accuracy recon: 0.9444
+test_loss: 33064.44790039062, test_recon: 0.9443655654788017, test_accuracy: 0.6708000004291534
+Epoch 40
+Loss: 32937.8770, Accuracy classifier: 0.6667, Accuracy recon: 0.9451
+train_loss: 32937.876974096056, train_recon: 0.9450985547823784, train_accuracy: 0.6667135550425602
+Loss: 32692.3026, Accuracy classifier: 0.6822, Accuracy recon: 0.9464
+test_loss: 32692.302612304688, test_recon: 0.9463980868458748, test_accuracy: 0.6821999967098236
+Epoch 45
+Loss: 32728.7437, Accuracy classifier: 0.6579, Accuracy recon: 0.9455
+train_loss: 32728.743666115784, train_recon: 0.9454861677609957, train_accuracy: 0.657898901670407
+Loss: 32424.1920, Accuracy classifier: 0.6747, Accuracy recon: 0.9467
+test_loss: 32424.192016601562, test_recon: 0.9467397958040238, test_accuracy: 0.6747000008821488
+Epoch 50
+Loss: 32558.3140, Accuracy classifier: 0.6766, Accuracy recon: 0.9460
+train_loss: 32558.31397642478, train_recon: 0.9459566443394392, train_accuracy: 0.6766065927652213
+Loss: 32262.1193, Accuracy classifier: 0.7020, Accuracy recon: 0.9470
+test_loss: 32262.119262695312, test_recon: 0.9469971939921379, test_accuracy: 0.7020000010728836
+Epoch 55
+Loss: 32113.2845, Accuracy classifier: 0.6612, Accuracy recon: 0.9469
+train_loss: 32113.284458884216, train_recon: 0.9468573713913943, train_accuracy: 0.6612424920766782
+Loss: 31928.9602, Accuracy classifier: 0.6835, Accuracy recon: 0.9479
+test_loss: 31928.960205078125, test_recon: 0.9479409456253052, test_accuracy: 0.6834999993443489
+Epoch 60
+Loss: 31982.9158, Accuracy classifier: 0.6960, Accuracy recon: 0.9475
+train_loss: 31982.915784630408, train_recon: 0.9475386986365685, train_accuracy: 0.6960468863829589
+Loss: 31785.3254, Accuracy classifier: 0.7151, Accuracy recon: 0.9486
+test_loss: 31785.325439453125, test_recon: 0.9486007705330849, test_accuracy: 0.7150999993085861
+Epoch 65
+Loss: 31527.5808, Accuracy classifier: 0.7032, Accuracy recon: 0.9483
+train_loss: 31527.580791140826, train_recon: 0.9482785221857902, train_accuracy: 0.703191207922422
+Loss: 31360.7096, Accuracy classifier: 0.7175, Accuracy recon: 0.9493
+test_loss: 31360.709594726562, test_recon: 0.9492566287517548, test_accuracy: 0.7174999997019768
+Epoch 70
+Loss: 31499.0098, Accuracy classifier: 0.7131, Accuracy recon: 0.9484
+train_loss: 31499.009765625, train_recon: 0.94842808338312, train_accuracy: 0.7130578753275749
+Loss: 31343.5427, Accuracy classifier: 0.7313, Accuracy recon: 0.9494
+test_loss: 31343.54265136719, test_recon: 0.9494462966918945, test_accuracy: 0.7313000038266182
+Epoch 75
+Loss: 31218.6931, Accuracy classifier: 0.7242, Accuracy recon: 0.9501
+train_loss: 31218.69305075621, train_recon: 0.9501450382746183, train_accuracy: 0.7242109882525909
+Loss: 31060.4965, Accuracy classifier: 0.7361, Accuracy recon: 0.9511
+test_loss: 31060.496459960938, test_recon: 0.951126404106617, test_accuracy: 0.7360999986529351
+Epoch 80
+Loss: 31111.3905, Accuracy classifier: 0.7139, Accuracy recon: 0.9504
+train_loss: 31111.390500738682, train_recon: 0.9504265387852987, train_accuracy: 0.7138930403269255
+Loss: 30983.5789, Accuracy classifier: 0.7211, Accuracy recon: 0.9512
+test_loss: 30983.57890625, test_recon: 0.9512346908450127, test_accuracy: 0.7210999980568886
+Epoch 85
+Loss: 31068.6358, Accuracy classifier: 0.7269, Accuracy recon: 0.9502
+train_loss: 31068.635811047676, train_recon: 0.9502000512220921, train_accuracy: 0.7268571444046803
+Loss: 30941.2489, Accuracy classifier: 0.7423, Accuracy recon: 0.9510
+test_loss: 30941.248876953126, test_recon: 0.9510113537311554, test_accuracy: 0.7422999992966652
+Epoch 90
+Loss: 30986.9346, Accuracy classifier: 0.7235, Accuracy recon: 0.9508
+train_loss: 30986.934622896635, train_recon: 0.9507728032576732, train_accuracy: 0.7234725288855723
+Loss: 30871.2341, Accuracy classifier: 0.7368, Accuracy recon: 0.9515
+test_loss: 30871.234130859375, test_recon: 0.9515309914946556, test_accuracy: 0.7368000000715256
+Epoch 95
+Loss: 30812.9681, Accuracy classifier: 0.7064, Accuracy recon: 0.9509
+train_loss: 30812.968149664463, train_recon: 0.9508758697754297, train_accuracy: 0.706391209211105
+Loss: 30707.2365, Accuracy classifier: 0.7206, Accuracy recon: 0.9516
+test_loss: 30707.236474609374, test_recon: 0.9515862226486206, test_accuracy: 0.7205999985337257
+
+Training with 7.0% labeled data
+Epoch 0
+Loss: 56312.0977, Accuracy classifier: 0.1038, Accuracy recon: 0.8730
+train_loss: 56312.09772135417, train_recon: 0.8730365536151788, train_accuracy: 0.10380366331873796
+Loss: 56086.3688, Accuracy classifier: 0.1149, Accuracy recon: 0.8734
+test_loss: 56086.36875, test_recon: 0.8734186202287674, test_accuracy: 0.1149000009521842
+Epoch 5
+Loss: 42008.5461, Accuracy classifier: 0.3729, Accuracy recon: 0.9176
+train_loss: 42008.54605869391, train_recon: 0.9175564188223618, train_accuracy: 0.37287912231225234
+Loss: 41693.6998, Accuracy classifier: 0.3918, Accuracy recon: 0.9191
+test_loss: 41693.69975585937, test_recon: 0.919108547270298, test_accuracy: 0.39179999753832817
+Epoch 10
+Loss: 38287.1098, Accuracy classifier: 0.4157, Accuracy recon: 0.9299
+train_loss: 38287.10982321715, train_recon: 0.9298892632508889, train_accuracy: 0.41566886489207927
+Loss: 37944.1695, Accuracy classifier: 0.4260, Accuracy recon: 0.9313
+test_loss: 37944.16950683594, test_recon: 0.931309312582016, test_accuracy: 0.42599999979138375
+Epoch 15
+Loss: 35913.3494, Accuracy classifier: 0.4819, Accuracy recon: 0.9375
+train_loss: 35913.3494146885, train_recon: 0.9375073900589577, train_accuracy: 0.48187839067899263
+Loss: 35432.1759, Accuracy classifier: 0.4924, Accuracy recon: 0.9389
+test_loss: 35432.17592773437, test_recon: 0.9388811200857162, test_accuracy: 0.4924000039696693
+Epoch 20
+Loss: 34619.1218, Accuracy classifier: 0.5907, Accuracy recon: 0.9419
+train_loss: 34619.12184557792, train_recon: 0.9418559141648122, train_accuracy: 0.5906578754767393
+Loss: 34296.1430, Accuracy classifier: 0.6087, Accuracy recon: 0.9433
+test_loss: 34296.14304199219, test_recon: 0.9433304846286774, test_accuracy: 0.6087000042200088
+Epoch 25
+Loss: 33665.8414, Accuracy classifier: 0.6090, Accuracy recon: 0.9438
+train_loss: 33665.841350535855, train_recon: 0.9437519987424214, train_accuracy: 0.6090168500557924
+Loss: 33393.2876, Accuracy classifier: 0.6338, Accuracy recon: 0.9452
+test_loss: 33393.28762207031, test_recon: 0.9452010214328765, test_accuracy: 0.6337999984622001
+Epoch 30
+Loss: 33190.1971, Accuracy classifier: 0.6261, Accuracy recon: 0.9451
+train_loss: 33190.19712540064, train_recon: 0.9451296711579348, train_accuracy: 0.6260688674755586
+Loss: 32869.5078, Accuracy classifier: 0.6473, Accuracy recon: 0.9464
+test_loss: 32869.5078125, test_recon: 0.9464256361126899, test_accuracy: 0.6473000019788742
+Epoch 35
+Loss: 32777.8506, Accuracy classifier: 0.6767, Accuracy recon: 0.9460
+train_loss: 32777.85063100961, train_recon: 0.9460419868811583, train_accuracy: 0.6767443219820658
+Loss: 32534.6224, Accuracy classifier: 0.6939, Accuracy recon: 0.9473
+test_loss: 32534.62236328125, test_recon: 0.9473348259925842, test_accuracy: 0.6939000010490417
+Epoch 40
+Loss: 32515.2054, Accuracy classifier: 0.6412, Accuracy recon: 0.9469
+train_loss: 32515.20538298778, train_recon: 0.9469011529898033, train_accuracy: 0.6412219802538554
+Loss: 32240.7078, Accuracy classifier: 0.6628, Accuracy recon: 0.9481
+test_loss: 32240.707763671875, test_recon: 0.9481080353260041, test_accuracy: 0.6627999976277351
+Epoch 45
+Loss: 32230.8719, Accuracy classifier: 0.6846, Accuracy recon: 0.9474
+train_loss: 32230.871881573017, train_recon: 0.9474436084429423, train_accuracy: 0.6846271056395311
+Loss: 31949.9656, Accuracy classifier: 0.6984, Accuracy recon: 0.9487
+test_loss: 31949.965551757814, test_recon: 0.9486710473895072, test_accuracy: 0.6983999997377396
+Epoch 50
+Loss: 31947.7985, Accuracy classifier: 0.6837, Accuracy recon: 0.9480
+train_loss: 31947.798529835236, train_recon: 0.9480277886757484, train_accuracy: 0.6836630035669375
+Loss: 31707.2125, Accuracy classifier: 0.6984, Accuracy recon: 0.9492
+test_loss: 31707.2125, test_recon: 0.9492012754082679, test_accuracy: 0.6983999997377396
+Epoch 55
+Loss: 31760.7411, Accuracy classifier: 0.7210, Accuracy recon: 0.9488
+train_loss: 31760.741054437098, train_recon: 0.9487980698927855, train_accuracy: 0.7209553137803689
+Loss: 31521.9022, Accuracy classifier: 0.7356, Accuracy recon: 0.9499
+test_loss: 31521.90224609375, test_recon: 0.9498528048396111, test_accuracy: 0.7355999991297721
+Epoch 60
+Loss: 31492.4287, Accuracy classifier: 0.7163, Accuracy recon: 0.9495
+train_loss: 31492.428689027445, train_recon: 0.9495440418903645, train_accuracy: 0.7162988992837759
+Loss: 31320.9260, Accuracy classifier: 0.7269, Accuracy recon: 0.9506
+test_loss: 31320.926049804686, test_recon: 0.9506108462810516, test_accuracy: 0.7268999993801117
+Epoch 65
+Loss: 31316.5364, Accuracy classifier: 0.7313, Accuracy recon: 0.9494
+train_loss: 31316.536426720253, train_recon: 0.9494309422297356, train_accuracy: 0.7313084256954682
+Loss: 31164.5891, Accuracy classifier: 0.7341, Accuracy recon: 0.9503
+test_loss: 31164.5890625, test_recon: 0.9503433659672738, test_accuracy: 0.7340999990701675
+Epoch 70
+Loss: 31182.4942, Accuracy classifier: 0.7522, Accuracy recon: 0.9503
+train_loss: 31182.49422263121, train_recon: 0.9503060701565865, train_accuracy: 0.7521904755861332
+Loss: 31013.6666, Accuracy classifier: 0.7705, Accuracy recon: 0.9513
+test_loss: 31013.666577148437, test_recon: 0.951316075026989, test_accuracy: 0.7705000042915344
+Epoch 75
+Loss: 31256.2594, Accuracy classifier: 0.7335, Accuracy recon: 0.9507
+train_loss: 31256.25941005609, train_recon: 0.9506730470901881, train_accuracy: 0.7335238099098206
+Loss: 31052.6384, Accuracy classifier: 0.7426, Accuracy recon: 0.9516
+test_loss: 31052.638427734375, test_recon: 0.9516258955001831, test_accuracy: 0.7426000013947487
+Epoch 80
+Loss: 31158.2882, Accuracy classifier: 0.7313, Accuracy recon: 0.9502
+train_loss: 31158.28821489383, train_recon: 0.9501930108437171, train_accuracy: 0.731328939474546
+Loss: 31007.1502, Accuracy classifier: 0.7438, Accuracy recon: 0.9512
+test_loss: 31007.150170898436, test_recon: 0.9512102082371712, test_accuracy: 0.7438000053167343
+Epoch 85
+Loss: 30815.1412, Accuracy classifier: 0.7380, Accuracy recon: 0.9513
+train_loss: 30815.141233473558, train_recon: 0.9512504122196099, train_accuracy: 0.7380366294811933
+Loss: 30665.0691, Accuracy classifier: 0.7509, Accuracy recon: 0.9521
+test_loss: 30665.069067382814, test_recon: 0.9520926058292389, test_accuracy: 0.7509000048041343
+Epoch 90
+Loss: 30847.4572, Accuracy classifier: 0.7357, Accuracy recon: 0.9511
+train_loss: 30847.457228127503, train_recon: 0.9511486395811424, train_accuracy: 0.73571868065076
+Loss: 30748.7972, Accuracy classifier: 0.7500, Accuracy recon: 0.9519
+test_loss: 30748.79719238281, test_recon: 0.9519487246870995, test_accuracy: 0.75
+Epoch 95
+Loss: 30674.6342, Accuracy classifier: 0.7518, Accuracy recon: 0.9505
+train_loss: 30674.63424979968, train_recon: 0.9505257566769918, train_accuracy: 0.7517597060937148
+Loss: 30537.9010, Accuracy classifier: 0.7685, Accuracy recon: 0.9514
+test_loss: 30537.900952148437, test_recon: 0.9513630092144012, test_accuracy: 0.7684999987483024
+
+Training with 8.0% labeled data
+Epoch 0
+Loss: 55513.7335, Accuracy classifier: 0.1048, Accuracy recon: 0.8738
+train_loss: 55513.73353177584, train_recon: 0.8738080293704302, train_accuracy: 0.10475897492888646
+Loss: 55300.0760, Accuracy classifier: 0.1020, Accuracy recon: 0.8744
+test_loss: 55300.0759765625, test_recon: 0.8743631392717361, test_accuracy: 0.10200000070035457
+Epoch 5
+Loss: 42619.8169, Accuracy classifier: 0.3192, Accuracy recon: 0.9161
+train_loss: 42619.81688639323, train_recon: 0.916050958327758, train_accuracy: 0.3192498179582449
+Loss: 42330.3195, Accuracy classifier: 0.3111, Accuracy recon: 0.9175
+test_loss: 42330.319506835935, test_recon: 0.9175184950232506, test_accuracy: 0.3111000020056963
+Epoch 10
+Loss: 38355.2068, Accuracy classifier: 0.5021, Accuracy recon: 0.9299
+train_loss: 38355.20681966146, train_recon: 0.9298669518568576, train_accuracy: 0.5020630061626434
+Loss: 37996.9912, Accuracy classifier: 0.5222, Accuracy recon: 0.9313
+test_loss: 37996.99123535156, test_recon: 0.9312594354152679, test_accuracy: 0.5222000017762184
+Epoch 15
+Loss: 35976.9619, Accuracy classifier: 0.5474, Accuracy recon: 0.9370
+train_loss: 35976.96188276242, train_recon: 0.9369998858525203, train_accuracy: 0.5474168517650702
+Loss: 35685.9550, Accuracy classifier: 0.5670, Accuracy recon: 0.9385
+test_loss: 35685.95500488281, test_recon: 0.9385271653532982, test_accuracy: 0.5670000001788139
+Epoch 20
+Loss: 34933.5299, Accuracy classifier: 0.5925, Accuracy recon: 0.9400
+train_loss: 34933.5299228766, train_recon: 0.9399979368234292, train_accuracy: 0.5925040293962528
+Loss: 34662.6423, Accuracy classifier: 0.6159, Accuracy recon: 0.9414
+test_loss: 34662.64228515625, test_recon: 0.941442857682705, test_accuracy: 0.6158999964594841
+Epoch 25
+Loss: 34250.1904, Accuracy classifier: 0.6659, Accuracy recon: 0.9407
+train_loss: 34250.19038273738, train_recon: 0.940676348331647, train_accuracy: 0.6658637349422162
+Loss: 33921.4606, Accuracy classifier: 0.6823, Accuracy recon: 0.9420
+test_loss: 33921.460620117185, test_recon: 0.9419707909226418, test_accuracy: 0.6822999998927116
+Epoch 30
+Loss: 33909.3418, Accuracy classifier: 0.6544, Accuracy recon: 0.9423
+train_loss: 33909.34177026993, train_recon: 0.9423138697942098, train_accuracy: 0.6543912089787997
+Loss: 33665.3330, Accuracy classifier: 0.6754, Accuracy recon: 0.9437
+test_loss: 33665.33298339844, test_recon: 0.9436605826020241, test_accuracy: 0.6754000052809715
+Epoch 35
+Loss: 33433.5332, Accuracy classifier: 0.7191, Accuracy recon: 0.9437
+train_loss: 33433.53317495493, train_recon: 0.9436612654954959, train_accuracy: 0.7190622705679673
+Loss: 33163.7987, Accuracy classifier: 0.7403, Accuracy recon: 0.9450
+test_loss: 33163.79873046875, test_recon: 0.944996041059494, test_accuracy: 0.7402999997138977
+Epoch 40
+Loss: 33026.3628, Accuracy classifier: 0.7198, Accuracy recon: 0.9446
+train_loss: 33026.362817695815, train_recon: 0.9445611626673968, train_accuracy: 0.7198417617724492
+Loss: 32831.8562, Accuracy classifier: 0.7391, Accuracy recon: 0.9459
+test_loss: 32831.856225585936, test_recon: 0.9458988562226296, test_accuracy: 0.7390999987721443
+Epoch 45
+Loss: 32651.7078, Accuracy classifier: 0.6980, Accuracy recon: 0.9456
+train_loss: 32651.707788085936, train_recon: 0.9456074460958823, train_accuracy: 0.6979809498175596
+Loss: 32415.2576, Accuracy classifier: 0.7180, Accuracy recon: 0.9469
+test_loss: 32415.25764160156, test_recon: 0.9469044625759124, test_accuracy: 0.7180000007152557
+Epoch 50
+Loss: 32512.6754, Accuracy classifier: 0.7092, Accuracy recon: 0.9461
+train_loss: 32512.675445713143, train_recon: 0.9461054239517603, train_accuracy: 0.709186812547537
+Loss: 32230.6960, Accuracy classifier: 0.7310, Accuracy recon: 0.9474
+test_loss: 32230.696044921875, test_recon: 0.9473718091845512, test_accuracy: 0.7310000017285347
+Epoch 55
+Loss: 32100.1543, Accuracy classifier: 0.7142, Accuracy recon: 0.9472
+train_loss: 32100.15432473207, train_recon: 0.9471658673041906, train_accuracy: 0.7142065937702472
+Loss: 31905.0170, Accuracy classifier: 0.7286, Accuracy recon: 0.9483
+test_loss: 31905.0169921875, test_recon: 0.9483440056443214, test_accuracy: 0.728600001335144
+Epoch 60
+Loss: 31889.8302, Accuracy classifier: 0.6875, Accuracy recon: 0.9483
+train_loss: 31889.830154497195, train_recon: 0.9482804115001972, train_accuracy: 0.6874578766333751
+Loss: 31677.8339, Accuracy classifier: 0.7067, Accuracy recon: 0.9494
+test_loss: 31677.833911132813, test_recon: 0.949359817802906, test_accuracy: 0.7067000031471252
+Epoch 65
+Loss: 31661.2200, Accuracy classifier: 0.7247, Accuracy recon: 0.9493
+train_loss: 31661.219953801083, train_recon: 0.9492738283597506, train_accuracy: 0.7246681298965063
+Loss: 31412.5454, Accuracy classifier: 0.7472, Accuracy recon: 0.9504
+test_loss: 31412.54538574219, test_recon: 0.9503854617476464, test_accuracy: 0.7472000047564507
+Epoch 70
+Loss: 31376.2361, Accuracy classifier: 0.7139, Accuracy recon: 0.9492
+train_loss: 31376.23609838241, train_recon: 0.9492331009644729, train_accuracy: 0.7139135528833438
+Loss: 31230.7325, Accuracy classifier: 0.7356, Accuracy recon: 0.9502
+test_loss: 31230.732495117187, test_recon: 0.950184179842472, test_accuracy: 0.7356000036001206
+Epoch 75
+Loss: 31288.1256, Accuracy classifier: 0.7407, Accuracy recon: 0.9502
+train_loss: 31288.125610977564, train_recon: 0.9502303499441881, train_accuracy: 0.7407296694242037
+Loss: 31026.8915, Accuracy classifier: 0.7576, Accuracy recon: 0.9513
+test_loss: 31026.89150390625, test_recon: 0.9512984663248062, test_accuracy: 0.7575999990105629
+Epoch 80
+Loss: 31025.4917, Accuracy classifier: 0.7368, Accuracy recon: 0.9503
+train_loss: 31025.491673239685, train_recon: 0.9503161213336847, train_accuracy: 0.7368322369379875
+Loss: 30908.2361, Accuracy classifier: 0.7568, Accuracy recon: 0.9512
+test_loss: 30908.236059570314, test_recon: 0.9511539548635483, test_accuracy: 0.7567999973893166
+Epoch 85
+Loss: 30909.9196, Accuracy classifier: 0.7223, Accuracy recon: 0.9509
+train_loss: 30909.919567558092, train_recon: 0.950931012019133, train_accuracy: 0.7222827856357281
+Loss: 30783.8131, Accuracy classifier: 0.7404, Accuracy recon: 0.9518
+test_loss: 30783.8130859375, test_recon: 0.9518422231078147, test_accuracy: 0.7403999984264373
+Epoch 90
+Loss: 30763.8906, Accuracy classifier: 0.7312, Accuracy recon: 0.9510
+train_loss: 30763.890593699918, train_recon: 0.9509780229666294, train_accuracy: 0.7312263754697946
+Loss: 30633.9133, Accuracy classifier: 0.7515, Accuracy recon: 0.9518
+test_loss: 30633.913305664064, test_recon: 0.951765051484108, test_accuracy: 0.7514999985694886
+Epoch 95
+Loss: 30649.5638, Accuracy classifier: 0.7614, Accuracy recon: 0.9512
+train_loss: 30649.56376577524, train_recon: 0.9512267837157616, train_accuracy: 0.7614271056957734
+Loss: 30540.8347, Accuracy classifier: 0.7726, Accuracy recon: 0.9521
+test_loss: 30540.834692382814, test_recon: 0.9520551025867462, test_accuracy: 0.7726000025868416
+
+Training with 9.0% labeled data
+Epoch 0
+Loss: 55560.4991, Accuracy classifier: 0.0931, Accuracy recon: 0.8726
+train_loss: 55560.49910481771, train_recon: 0.872627838758322, train_accuracy: 0.09314285749808336
+Loss: 55320.0230, Accuracy classifier: 0.0892, Accuracy recon: 0.8733
+test_loss: 55320.02297363281, test_recon: 0.8733084172010421, test_accuracy: 0.0892000000923872
+Epoch 5
+Loss: 43045.1277, Accuracy classifier: 0.3384, Accuracy recon: 0.9158
+train_loss: 43045.12772435897, train_recon: 0.9158010452221601, train_accuracy: 0.33841172273342424
+Loss: 42799.6636, Accuracy classifier: 0.3474, Accuracy recon: 0.9175
+test_loss: 42799.66362304687, test_recon: 0.9174600794911385, test_accuracy: 0.34740000143647193
+Epoch 10
+Loss: 38486.3847, Accuracy classifier: 0.5056, Accuracy recon: 0.9287
+train_loss: 38486.38474684495, train_recon: 0.9286563231394841, train_accuracy: 0.5055824192670676
+Loss: 38261.1470, Accuracy classifier: 0.5088, Accuracy recon: 0.9301
+test_loss: 38261.14704589844, test_recon: 0.9301186174154281, test_accuracy: 0.5088000029325486
+Epoch 15
+Loss: 36327.9703, Accuracy classifier: 0.5321, Accuracy recon: 0.9357
+train_loss: 36327.97031688201, train_recon: 0.9356947305874946, train_accuracy: 0.532079123533689
+Loss: 36053.0774, Accuracy classifier: 0.5349, Accuracy recon: 0.9372
+test_loss: 36053.077416992186, test_recon: 0.9372317597270012, test_accuracy: 0.53490000218153
+Epoch 20
+Loss: 34515.2766, Accuracy classifier: 0.5914, Accuracy recon: 0.9415
+train_loss: 34515.27658722706, train_recon: 0.9414875950568762, train_accuracy: 0.591428570716809
+Loss: 34214.0423, Accuracy classifier: 0.6128, Accuracy recon: 0.9428
+test_loss: 34214.04228515625, test_recon: 0.9427519142627716, test_accuracy: 0.6128000050783158
+Epoch 25
+Loss: 33815.0668, Accuracy classifier: 0.5831, Accuracy recon: 0.9433
+train_loss: 33815.06677246094, train_recon: 0.943269555690961, train_accuracy: 0.5831150192480821
+Loss: 33611.7201, Accuracy classifier: 0.6020, Accuracy recon: 0.9446
+test_loss: 33611.72006835938, test_recon: 0.9445563778281212, test_accuracy: 0.6019999966025352
+Epoch 30
+Loss: 33203.9937, Accuracy classifier: 0.6284, Accuracy recon: 0.9454
+train_loss: 33203.99365985577, train_recon: 0.9453871396871714, train_accuracy: 0.6283545802801084
+Loss: 32890.0778, Accuracy classifier: 0.6521, Accuracy recon: 0.9466
+test_loss: 32890.07783203125, test_recon: 0.946617603302002, test_accuracy: 0.6521000027656555
+Epoch 35
+Loss: 32756.6287, Accuracy classifier: 0.6340, Accuracy recon: 0.9459
+train_loss: 32756.628737855568, train_recon: 0.945942572141305, train_accuracy: 0.6339604420539661
+Loss: 32518.0709, Accuracy classifier: 0.6670, Accuracy recon: 0.9472
+test_loss: 32518.070874023437, test_recon: 0.947158032655716, test_accuracy: 0.66700000166893
+Epoch 40
+Loss: 32511.4951, Accuracy classifier: 0.6962, Accuracy recon: 0.9469
+train_loss: 32511.495118126502, train_recon: 0.9468974351882935, train_accuracy: 0.6961904779458657
+Loss: 32289.5351, Accuracy classifier: 0.7204, Accuracy recon: 0.9481
+test_loss: 32289.535107421874, test_recon: 0.9481042072176933, test_accuracy: 0.7204000025987625
+Epoch 45
+Loss: 32222.3421, Accuracy classifier: 0.6728, Accuracy recon: 0.9481
+train_loss: 32222.342128029846, train_recon: 0.9481225175735278, train_accuracy: 0.672805864077348
+Loss: 31936.3916, Accuracy classifier: 0.6889, Accuracy recon: 0.9492
+test_loss: 31936.391552734374, test_recon: 0.9492372438311577, test_accuracy: 0.6888999953866005
+Epoch 50
+Loss: 31995.8823, Accuracy classifier: 0.6823, Accuracy recon: 0.9480
+train_loss: 31995.88231608073, train_recon: 0.9479507504365383, train_accuracy: 0.6823238091591077
+Loss: 31790.9521, Accuracy classifier: 0.6992, Accuracy recon: 0.9490
+test_loss: 31790.952075195313, test_recon: 0.9489572703838348, test_accuracy: 0.6991999983787537
+Epoch 55
+Loss: 31697.3158, Accuracy classifier: 0.7010, Accuracy recon: 0.9492
+train_loss: 31697.31583596254, train_recon: 0.9492375878187326, train_accuracy: 0.7009699628903315
+Loss: 31523.2409, Accuracy classifier: 0.7176, Accuracy recon: 0.9502
+test_loss: 31523.24089355469, test_recon: 0.950159314274788, test_accuracy: 0.7175999984145165
+Epoch 60
+Loss: 31594.4310, Accuracy classifier: 0.6967, Accuracy recon: 0.9495
+train_loss: 31594.430993652342, train_recon: 0.9494844354116, train_accuracy: 0.6967032955243038
+Loss: 31408.5588, Accuracy classifier: 0.7218, Accuracy recon: 0.9505
+test_loss: 31408.55876464844, test_recon: 0.9504894092679024, test_accuracy: 0.721799997985363
+Epoch 65
+Loss: 31293.1470, Accuracy classifier: 0.7262, Accuracy recon: 0.9505
+train_loss: 31293.146993940303, train_recon: 0.9504685576145465, train_accuracy: 0.7261802205672631
+Loss: 31152.3352, Accuracy classifier: 0.7460, Accuracy recon: 0.9514
+test_loss: 31152.335205078125, test_recon: 0.9513797208666801, test_accuracy: 0.7459999993443489
+Epoch 70
+Loss: 31224.5349, Accuracy classifier: 0.7470, Accuracy recon: 0.9505
+train_loss: 31224.53491774339, train_recon: 0.9505282493738028, train_accuracy: 0.7469802205379192
+Loss: 31089.2933, Accuracy classifier: 0.7683, Accuracy recon: 0.9514
+test_loss: 31089.293310546876, test_recon: 0.9513556152582169, test_accuracy: 0.7683000013232231
+Epoch 75
+Loss: 31181.2665, Accuracy classifier: 0.7569, Accuracy recon: 0.9507
+train_loss: 31181.266502028244, train_recon: 0.9506662998443994, train_accuracy: 0.7569494473628509
+Loss: 31020.4260, Accuracy classifier: 0.7714, Accuracy recon: 0.9514
+test_loss: 31020.426049804686, test_recon: 0.9513987228274345, test_accuracy: 0.7714000001549721
+Epoch 80
+Loss: 30838.5099, Accuracy classifier: 0.7685, Accuracy recon: 0.9513
+train_loss: 30838.509892077323, train_recon: 0.9512620189251044, train_accuracy: 0.7685391902923584
+Loss: 30727.3494, Accuracy classifier: 0.7836, Accuracy recon: 0.9521
+test_loss: 30727.349365234375, test_recon: 0.9520946413278579, test_accuracy: 0.7835999995470047
+Epoch 85
+Loss: 30774.4216, Accuracy classifier: 0.7229, Accuracy recon: 0.9521
+train_loss: 30774.421551357173, train_recon: 0.9521124203999837, train_accuracy: 0.7229450546778166
+Loss: 30636.5199, Accuracy classifier: 0.7336, Accuracy recon: 0.9529
+test_loss: 30636.519946289063, test_recon: 0.9529035717248917, test_accuracy: 0.7335999995470047
+Epoch 90
+Loss: 30790.1650, Accuracy classifier: 0.7114, Accuracy recon: 0.9514
+train_loss: 30790.164962377305, train_recon: 0.9514454153867868, train_accuracy: 0.7113699634869893
+Loss: 30748.7231, Accuracy classifier: 0.7183, Accuracy recon: 0.9520
+test_loss: 30748.723095703124, test_recon: 0.9519841849803925, test_accuracy: 0.7182999983429909
+Epoch 95
+Loss: 30628.3951, Accuracy classifier: 0.7730, Accuracy recon: 0.9523
+train_loss: 30628.395139723558, train_recon: 0.952308126596304, train_accuracy: 0.7729904767794487
+Loss: 30596.4604, Accuracy classifier: 0.7804, Accuracy recon: 0.9528
+test_loss: 30596.460400390624, test_recon: 0.9528483405709267, test_accuracy: 0.7804000005126
+
+Training with 10.0% labeled data
+Epoch 0
+Loss: 56568.5705, Accuracy classifier: 0.1000, Accuracy recon: 0.8718
+train_loss: 56568.57046274038, train_recon: 0.8717798150502718, train_accuracy: 0.10003516521209325
+Loss: 56380.5549, Accuracy classifier: 0.0974, Accuracy recon: 0.8721
+test_loss: 56380.554931640625, test_recon: 0.8721262738108635, test_accuracy: 0.09740000059828162
+Epoch 5
+Loss: 41843.0276, Accuracy classifier: 0.3552, Accuracy recon: 0.9200
+train_loss: 41843.027583508614, train_recon: 0.9200448103440113, train_accuracy: 0.35523809561362635
+Loss: 41517.8210, Accuracy classifier: 0.3791, Accuracy recon: 0.9218
+test_loss: 41517.821020507814, test_recon: 0.921833162009716, test_accuracy: 0.379100002348423
+Epoch 10
+Loss: 38056.0217, Accuracy classifier: 0.4179, Accuracy recon: 0.9303
+train_loss: 38056.02165276943, train_recon: 0.9302996644606957, train_accuracy: 0.4179457881511786
+Loss: 37678.5772, Accuracy classifier: 0.4394, Accuracy recon: 0.9319
+test_loss: 37678.57724609375, test_recon: 0.9318590581417083, test_accuracy: 0.4393999993801117
+Epoch 15
+Loss: 36459.0545, Accuracy classifier: 0.5538, Accuracy recon: 0.9343
+train_loss: 36459.05450721154, train_recon: 0.9342960345439422, train_accuracy: 0.5538021984772804
+Loss: 36091.7588, Accuracy classifier: 0.5746, Accuracy recon: 0.9358
+test_loss: 36091.7587890625, test_recon: 0.9357954084873199, test_accuracy: 0.5746000006794929
+Epoch 20
+Loss: 35208.9950, Accuracy classifier: 0.6084, Accuracy recon: 0.9377
+train_loss: 35208.99498510116, train_recon: 0.9377037332608149, train_accuracy: 0.6084014638876304
+Loss: 34883.0783, Accuracy classifier: 0.6300, Accuracy recon: 0.9392
+test_loss: 34883.078344726564, test_recon: 0.9391670897603035, test_accuracy: 0.6300000011920929
+Epoch 25
+Loss: 34536.4215, Accuracy classifier: 0.6095, Accuracy recon: 0.9392
+train_loss: 34536.42149439103, train_recon: 0.9391732668265318, train_accuracy: 0.609529670385214
+Loss: 34263.4339, Accuracy classifier: 0.6259, Accuracy recon: 0.9407
+test_loss: 34263.433911132815, test_recon: 0.9406846970319748, test_accuracy: 0.6259000033140183
+Epoch 30
+Loss: 34227.8457, Accuracy classifier: 0.5955, Accuracy recon: 0.9399
+train_loss: 34227.84574819711, train_recon: 0.9399141229115999, train_accuracy: 0.5955399283995995
+Loss: 33942.2832, Accuracy classifier: 0.6118, Accuracy recon: 0.9413
+test_loss: 33942.28322753906, test_recon: 0.9412602066993714, test_accuracy: 0.6118000000715256
+Epoch 35
+Loss: 33725.5276, Accuracy classifier: 0.6502, Accuracy recon: 0.9419
+train_loss: 33725.527592272636, train_recon: 0.9419312712473747, train_accuracy: 0.6501655685595977
+Loss: 33442.1123, Accuracy classifier: 0.6771, Accuracy recon: 0.9433
+test_loss: 33442.11232910156, test_recon: 0.9432751312851906, test_accuracy: 0.6770999938249588
+Epoch 40
+Loss: 33473.1223, Accuracy classifier: 0.6382, Accuracy recon: 0.9432
+train_loss: 33473.12226124299, train_recon: 0.9431784119361486, train_accuracy: 0.638221247990926
+Loss: 33199.4972, Accuracy classifier: 0.6652, Accuracy recon: 0.9445
+test_loss: 33199.49721679687, test_recon: 0.9444941341876983, test_accuracy: 0.6651999935507774
+Epoch 45
+Loss: 33035.5621, Accuracy classifier: 0.6576, Accuracy recon: 0.9440
+train_loss: 33035.56213253706, train_recon: 0.9439804355303446, train_accuracy: 0.6576468880359944
+Loss: 32708.5869, Accuracy classifier: 0.6850, Accuracy recon: 0.9452
+test_loss: 32708.58693847656, test_recon: 0.9452059924602508, test_accuracy: 0.6849999994039535
+Epoch 50
+Loss: 32839.7638, Accuracy classifier: 0.6517, Accuracy recon: 0.9453
+train_loss: 32839.76377579127, train_recon: 0.9453239034383725, train_accuracy: 0.6516776552567115
+Loss: 32614.8076, Accuracy classifier: 0.6722, Accuracy recon: 0.9465
+test_loss: 32614.8076171875, test_recon: 0.9464525550603866, test_accuracy: 0.6721999987959861
+Epoch 55
+Loss: 32487.0456, Accuracy classifier: 0.6498, Accuracy recon: 0.9462
+train_loss: 32487.045558205627, train_recon: 0.9461836564235199, train_accuracy: 0.6497904780583504
+Loss: 32291.9739, Accuracy classifier: 0.6701, Accuracy recon: 0.9472
+test_loss: 32291.973852539064, test_recon: 0.9472413271665573, test_accuracy: 0.6701000034809113
+Epoch 60
+Loss: 32187.0873, Accuracy classifier: 0.6723, Accuracy recon: 0.9477
+train_loss: 32187.08731595553, train_recon: 0.9476678512035273, train_accuracy: 0.6723340654984499
+Loss: 31983.7047, Accuracy classifier: 0.6965, Accuracy recon: 0.9487
+test_loss: 31983.704663085937, test_recon: 0.9486937537789345, test_accuracy: 0.6965000033378601
+Epoch 65
+Loss: 31836.4437, Accuracy classifier: 0.6809, Accuracy recon: 0.9479
+train_loss: 31836.44366455078, train_recon: 0.9478704421948164, train_accuracy: 0.6809289375940959
+Loss: 31608.6892, Accuracy classifier: 0.7058, Accuracy recon: 0.9489
+test_loss: 31608.689208984375, test_recon: 0.9489419654011726, test_accuracy: 0.705799999833107
+Epoch 70
+Loss: 31615.3657, Accuracy classifier: 0.7132, Accuracy recon: 0.9491
+train_loss: 31615.36566882011, train_recon: 0.9491256674130758, train_accuracy: 0.7132219797525651
+Loss: 31399.0108, Accuracy classifier: 0.7400, Accuracy recon: 0.9501
+test_loss: 31399.01083984375, test_recon: 0.9501172214746475, test_accuracy: 0.7400000035762787
+Epoch 75
+Loss: 31495.9360, Accuracy classifier: 0.6753, Accuracy recon: 0.9490
+train_loss: 31495.93599697015, train_recon: 0.9490482055223906, train_accuracy: 0.6753347995953682
+Loss: 31309.8477, Accuracy classifier: 0.7008, Accuracy recon: 0.9499
+test_loss: 31309.847705078126, test_recon: 0.9499164536595345, test_accuracy: 0.700799998641014
+Epoch 80
+Loss: 31285.6629, Accuracy classifier: 0.6907, Accuracy recon: 0.9492
+train_loss: 31285.662881547978, train_recon: 0.949231730057643, train_accuracy: 0.6906989027292301
+Loss: 31183.4738, Accuracy classifier: 0.7083, Accuracy recon: 0.9501
+test_loss: 31183.473779296874, test_recon: 0.9501450225710869, test_accuracy: 0.7082999959588051
+Epoch 85
+Loss: 31082.2172, Accuracy classifier: 0.7295, Accuracy recon: 0.9503
+train_loss: 31082.217220365084, train_recon: 0.95034140256735, train_accuracy: 0.7295443241412823
+Loss: 30954.6484, Accuracy classifier: 0.7511, Accuracy recon: 0.9512
+test_loss: 30954.648364257813, test_recon: 0.951182147860527, test_accuracy: 0.751100005209446
+Epoch 90
+Loss: 30944.0656, Accuracy classifier: 0.7253, Accuracy recon: 0.9512
+train_loss: 30944.06563658103, train_recon: 0.9512084300701434, train_accuracy: 0.7253186818880912
+Loss: 30826.4255, Accuracy classifier: 0.7467, Accuracy recon: 0.9519
+test_loss: 30826.425512695314, test_recon: 0.9519385248422623, test_accuracy: 0.746700006723404
+Epoch 95
+Loss: 30998.9805, Accuracy classifier: 0.7618, Accuracy recon: 0.9516
+train_loss: 30998.980528220152, train_recon: 0.9516230020767603, train_accuracy: 0.7617699616994613
+Loss: 30814.1372, Accuracy classifier: 0.7798, Accuracy recon: 0.9526
+test_loss: 30814.13720703125, test_recon: 0.9525570183992386, test_accuracy: 0.7797999978065491
+Evaluation complete. Results saved to results/ss_vae_fractions.json
